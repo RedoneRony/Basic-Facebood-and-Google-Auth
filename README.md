@@ -39,7 +39,7 @@ python manage.py runserver
 
 Change/add the domain from SITES then add social application under SOCIAL_ACCOUNTS. You can obtain CLIENT_ID and SECRET_KEY for Google from [https://console.developers.google.com](https://console.developers.google.com) and for Facebook [https://developers.facebook.com/](https://developers.facebook.com/)
 
-### Now it's time to setup the frontend
+### Frontend Setup
 
 Change the terminal directory to frontend:
 
